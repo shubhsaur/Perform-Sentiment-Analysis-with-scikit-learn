@@ -8,4 +8,4 @@ Steps achieved:
 3. Build and employ a logistic regression classifier using scikit-learn.
 4. Tune model hyperparameters and evaluate model accuracy
 
-The model accuracy acheived was 89.6%.
+The model accuracy acheived was 89.9%.
