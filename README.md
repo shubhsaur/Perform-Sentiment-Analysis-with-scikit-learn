@@ -1,4 +1,4 @@
-# Perform-Sentiment-Analysis-with-scikit-learn
+# Sentiment-Analysis-with-scikit-learn
 
 Applied the logistic regression classification algorithm using scikit-learn and Python to classify movie reviews as either postive or negative. 
 
